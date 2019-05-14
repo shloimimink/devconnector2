@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://shloimimink1215:shloimimink1215@devconnector2-ioclw.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret"
+}
+
