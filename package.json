@@ -13,6 +13,7 @@
   "author": "Shloimi Minkowicz",
   "license": "MIT",
   "dependencies": {
+    "array-union": "^2.1.0",
     "bcryptjs": "^2.4.3",
     "client": "0.0.1",
     "config": "^3.1.0",
