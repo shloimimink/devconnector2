@@ -1,5 +1,7 @@
 {
   "mongoURI": "mongodb+srv://shloimimink1215:shloimimink1215@devconnector2-ioclw.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "secret"
+  "jwtSecret": "secret",
+  "githubClientId": "95dc8c11a77257f7ce4a",
+  "githubSecret": "af7197d6887ec86c3c380fcb33fa61665e943640"
 }
 
